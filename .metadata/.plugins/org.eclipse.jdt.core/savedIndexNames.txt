@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\lasuk\Desktop\MyJava\north_problem\.metadata\.plugins\org.eclipse.jdt.core
+2163366143.index
+1865797976.index
+3721861684.index
